@@ -23,6 +23,18 @@ O estudo identificou **37 compostos promissores**, selecionados via *consensus m
 
 ---
 
+## 📄 **Abstract (English)**  
+
+This study investigates the use of **machine learning** and **deep learning** techniques for virtual screening to identify potential **acetylcholinesterase (AChE) inhibitors** as a treatment for **Alzheimer's disease**. By integrating **Quantitative Structure-Activity Relationship (QSAR) modeling** with diverse molecular descriptors—**Morgan fingerprints**, **RDKit**, and **SiRMS**—the study achieved high predictive accuracy and efficiency. Machine learning models, including **Support Vector Machine (SVM)**, **Random Forest (RF)**, **Multilayer Perceptron (MLP)**, and **TensorFlow**, were employed to classify compounds as active or inactive. Consensus modeling combined with similarity searches using the **Tanimoto coefficient** identified **37 promising compounds** with structural similarity greater than 50% to reference molecules such as **tacrine**. These findings underscore the potential of computational approaches to accelerate drug discovery processes, offering an efficient and cost-effective strategy for identifying novel therapeutic candidates to treat neurodegenerative diseases like Alzheimer's.  
+
+---
+
+## 📄 **Resumen (Español)**  
+
+Este estudio investiga el uso de técnicas de **aprendizaje automático** y **aprendizaje profundo** para realizar *screening virtual* y así identificar posibles **inhibidores de la acetilcolinesterasa (AChE)** como tratamiento para la **enfermedad de Alzheimer**. Integrando el **modelado QSAR (Relación Cuantitativa Estructura-Actividad)** con descriptores moleculares diversos—**Morgan fingerprints**, **RDKit** y **SiRMS**—el estudio logró alta precisión predictiva y eficiencia. Se aplicaron modelos de aprendizaje automático como **Support Vector Machine (SVM)**, **Random Forest (RF)**, **Multilayer Perceptron (MLP)** y **TensorFlow** para clasificar compuestos como activos o inactivos. La combinación de *consensus modeling* y búsquedas de similitud usando el **coeficiente de Tanimoto** permitió identificar **37 compuestos prometedores** con una similitud estructural superior al 50% respecto a moléculas de referencia como la **tacrina**. Estos resultados destacan el potencial de los enfoques computacionales para acelerar el descubrimiento de fármacos, proporcionando una estrategia eficiente y rentable para encontrar nuevos candidatos terapéuticos para tratar enfermedades neurodegenerativas como el Alzheimer.  
+
+--- 
+
 ## 🧠 **Contexto e Motivação**  
 A **Doença de Alzheimer** é uma condição neurodegenerativa caracterizada por declínio cognitivo e perda de memória. Inibidores de AChE aumentam os níveis de acetilcolina no cérebro, melhorando a transmissão neuronal e aliviando sintomas cognitivos.  
 
@@ -92,6 +104,12 @@ A combinação de **QSAR modeling**, **screening virtual** e técnicas de **Mach
 - Validação experimental dos compostos identificados.  
 - Exploração de novos descritores moleculares e métodos híbridos.  
 - Aplicação de **Deep Learning Explicável** para melhor compreensão dos mecanismos moleculares.
+
+---
+
+## 🔗 **Link para a Monografia**  
+O documento completo da pesquisa pode ser acessado através do link:  
+[**Leandro Pedrosa - Monografia**](https://bdta.abcd.usp.br/directbitstream/a9d4d9ea-7691-4462-ac64-ce6bcbaf2d36/Leandro%20Pedrosa.pdf)
 
 ---
 
