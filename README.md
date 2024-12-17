@@ -127,3 +127,34 @@ O documento completo da pesquisa pode ser acessado através do link:
 - **TensorFlow/Keras**  
 - **RDKit**  
 - **PubChem e ChemBL Databases**
+
+---
+
+## 📚 **Como citar**  
+
+*A data do acesso citação deve ser adicionada no dia do acesso e pode não estar totalmente de acordo com as normas.*  
+
+### **ABNT**  
+PEDROSA, Leandro. Modelagem QSAR (Relação Quantitativa Estrutura-Atividade), busca por similaridade e triagem virtual para a identificação de inibidores de Acetilcolinesterase (AChE) para a doença de Alzheimer. 2023. Trabalho de Conclusão de Curso (MBA) – Instituto de Ciências Matemáticas e de Computação, Universidade de São Paulo, São Carlos, 2023. Disponível em: [https://bdta.abcd.usp.br/directbitstream/a9d4d9ea-7691-4462-ac64-ce6bcbaf2d36/Leandro%20Pedrosa.pdf](https://bdta.abcd.usp.br/directbitstream/a9d4d9ea-7691-4462-ac64-ce6bcbaf2d36/Leandro%20Pedrosa.pdf). Acesso em: 17 dez. 2024.  
+
+### **APA**  
+Pedrosa, L. (2023). *Modelagem QSAR (Relação Quantitativa Estrutura-Atividade), busca por similaridade e triagem virtual para a identificação de inibidores de Acetilcolinesterase (AChE) para a doença de Alzheimer* (Trabalho de Conclusão de Curso (MBA). Instituto de Ciências Matemáticas e de Computação, Universidade de São Paulo, São Carlos. Recuperado de [https://bdta.abcd.usp.br/directbitstream/a9d4d9ea-7691-4462-ac64-ce6bcbaf2d36/Leandro%20Pedrosa.pdf](https://bdta.abcd.usp.br/directbitstream/a9d4d9ea-7691-4462-ac64-ce6bcbaf2d36/Leandro%20Pedrosa.pdf)  
+
+### **NLM**  
+Pedrosa L. *Modelagem QSAR (Relação Quantitativa Estrutura-Atividade), busca por similaridade e triagem virtual para a identificação de inibidores de Acetilcolinesterase (AChE) para a doença de Alzheimer* [Internet]. 2023; [citado 2024 dez. 17]. Available from: [https://bdta.abcd.usp.br/directbitstream/a9d4d9ea-7691-4462-ac64-ce6bcbaf2d36/Leandro%20Pedrosa.pdf](https://bdta.abcd.usp.br/directbitstream/a9d4d9ea-7691-4462-ac64-ce6bcbaf2d36/Leandro%20Pedrosa.pdf)  
+
+### **Vancouver**  
+Pedrosa L. *Modelagem QSAR (Relação Quantitativa Estrutura-Atividade), busca por similaridade e triagem virtual para a identificação de inibidores de Acetilcolinesterase (AChE) para a doença de Alzheimer* [Internet]. 2023; [citado 2024 dez. 17]. Available from: [https://bdta.abcd.usp.br/directbitstream/a9d4d9ea-7691-4462-ac64-ce6bcbaf2d36/Leandro%20Pedrosa.pdf](https://bdta.abcd.usp.br/directbitstream/a9d4d9ea-7691-4462-ac64-ce6bcbaf2d36/Leandro%20Pedrosa.pdf)  
+
+### **BibTeX**  
+```bibtex
+@misc{miscef9ada78,
+  title   = {Modelagem QSAR (Relação Quantitativa Estrutura-Atividade), busca por similaridade e triagem virtual para a identificação de inibidores de Acetilcolinesterase (AChE) para a doença de Alzheimer},
+  author  = {Pedrosa, Leandro and Rios, Tatiane Nogueira},
+  year    = {2023}
+}
+```
+
+### **Registro BDTA USP**  
+A monografia pode ser acessada no **BDTA USP** através do link:  
+[https://bdta.abcd.usp.br/item/003190344](https://bdta.abcd.usp.br/item/003190344)  
