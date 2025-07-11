@@ -5,8 +5,10 @@
 **Instituto de Ciências Matemáticas e de Computação (ICMC)**  
 
 ### **Autores:**  
-- **Leandro Pedrosa** | leandropedrosalp@gmail.com  
-- **Tatiane Nogueira Rios** | tatianenogueira@gmail.com  
+- **Leandro Pedrosa** | leandropedrosalp@gmail.com
+- **Renata Dutra Braga** | [renatadbraga@gmail.com](mailto:renatadbraga@gmail.com)
+- **Tatiane Nogueira Rios** | tatianenogueira@gmail.com
+
 
 ---
 
@@ -107,6 +109,17 @@ A combinação de **QSAR modeling**, **screening virtual** e técnicas de **Mach
 
 ---
 
+## **Apresentação e Publicação**
+
+Parte desta pesquisa foi apresentada na **International Conference on Artificial Intelligence for Healthcare Applications (ICAIHA-25)**, realizada nos dias **4 e 5 de junho de 2025**, em **Lisboa, Portugal**.
+
+O artigo resultante foi publicado na revista **Computational Intelligence and Machine Learning**, uma publicação científica de acesso aberto e revisão por pares.
+
+Acesse o artigo completo:
+[https://www.cimachinelearning.com/quantitative-structure-activity.php](https://www.cimachinelearning.com/quantitative-structure-activity.php)
+
+---
+
 ## **Link para a Monografia**  
 O documento completo da pesquisa pode ser acessado através do link:  
 [**Leandro Pedrosa - Monografia**](https://bdta.abcd.usp.br/directbitstream/a9d4d9ea-7691-4462-ac64-ce6bcbaf2d36/Leandro%20Pedrosa.pdf)
@@ -150,7 +163,7 @@ Pedrosa L. *Modelagem QSAR (Relação Quantitativa Estrutura-Atividade), busca p
 ```bibtex
 @misc{miscef9ada78,
   title   = {Modelagem QSAR (Relação Quantitativa Estrutura-Atividade), busca por similaridade e triagem virtual para a identificação de inibidores de Acetilcolinesterase (AChE) para a doença de Alzheimer},
-  author  = {Pedrosa, Leandro and Rios, Tatiane Nogueira},
+  author  = {Pedrosa, Leandro and Braga, Renata Dutra and Rios, Tatiane Nogueira},
   year    = {2023}
 }
 ```
